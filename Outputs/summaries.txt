@@ -1,0 +1,90 @@
+Summary of graph_0.png in Page_1:
+The bar graph displays sales quantity by market.  Delhi NCR has overwhelmingly the highest sales quantity (approximately 1 million), while all other markets show negligible sales (0 million).
+
+
+Error processing graph_1.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 93: character maps to <undefined>
+
+Error processing graph_2.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 148: character maps to <undefined>
+
+Error processing graph_3.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 149: character maps to <undefined>
+
+Error processing graph_4.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 141: character maps to <undefined>
+
+Summary of graph_5.png in Page_1:
+The graph shows a mostly consistent value of 17 from June to December, followed by an increase to 18 in January and February.  There's a slight upward trend at the end of the year.
+
+
+Summary of graph_6.png in Page_1:
+The graph shows a simple timeline from 2017 to 2020.  There is no data presented, only the years.  Therefore, no trends or insights can be derived.
+
+
+Summary of graph_7.png in Page_1:
+That's not a graph; it's a single data point.  The insight is that 2 million units were sold.  There are no trends shown as only one data point is presented.
+
+
+Error processing graph_8.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 114: character maps to <undefined>
+
+Summary of graph_0.png in Page_2:
+The graph shows a revenue trend from January 2020 to June 2020. Revenue increased slightly from January to February, peaked in February, and then declined steadily through June.  There was a significant drop in revenue in the final month.
+
+
+Summary of graph_1.png in Page_2:
+The graph shows revenue contribution by market. Delhi NCR overwhelmingly dominates (54.7%), followed by Mumbai (14.2%) and Ahmedabad (12.7%).  The remaining markets contribute significantly less, indicating a highly concentrated revenue source.
+
+
+Summary of graph_2.png in Page_2:
+The graph shows the revenue contribution and profit margin contribution of various customer segments.  Electricalsara Stores dominates revenue (46.2%), but many segments have negative profit margins.  While some segments show higher profit margin percentages (e.g., Electricalsbea Stores), their low revenue contribution makes their overall impact minimal.  Overall profit margin is low (1.4%).
+
+
+Summary of graph_3.png in Page_2:
+The bar graph displays the profit contribution percentage by market. Mumbai and Delhi NCR are the top contributors, with 23.9% and 22.1% respectively.  Profit contribution decreases significantly after Ahmedabad (19%), with most other markets contributing less than 10%.  Lucknow shows a negative profit contribution.
+
+
+Summary of graph_4.png in Page_2:
+The bar graph displays profit percentages by market.  Bhubaneshwar shows the highest profit (10.5%), while Lucknow shows a loss (-2.7%).  Profits generally increase from the top to the bottom of the chart.
+
+
+Summary of graph_5.png in Page_2:
+The graph shows a simple timeline of dates, from January 20th to June 20th, with each month represented by a separate box.  There are no trends or data insights to interpret beyond the display of these dates.
+
+
+Error processing graph_6.png in Page_2: 'charmap' codec can't encode character '\u20b9' in position 115: character maps to <undefined>
+
+Summary of graph_7.png in Page_2:
+That's not a graph; it's a single data point.  The image shows that 350,000 units were sold (Sales Qty = 350K).  There are no trends or insights to be gleaned from a single data point.
+
+
+Error processing graph_8.png in Page_2: 'charmap' codec can't encode character '\u20b9' in position 85: character maps to <undefined>
+
+Summary of graph_9.png in Page_2:
+The graph shows a simple timeline from 2017 to 2019, suggesting a progression or sequence of events over those three years.  There's no data represented within the years themselves, only the year markers.  The arrow indicates that the timeline continues beyond 2019.
+
+
+Summary of graph_0.png in Page_3:
+The graph shows the revenue and profit margin contribution of various customer segments.  Electricalsara Stores dominates revenue (42%), while its profit margin contribution (37.7%) is also high.  Many segments have low revenue but higher profit margins.  Overall, the average profit margin is 2.5%.
+
+
+Summary of graph_1.png in Page_3:
+Here's a concise description of the main trends and insights from the provided graph:
+
+The graph shows the revenue contribution percentage by market.  Surat is the top contributor (4.9%), while Bengaluru shows a significant negative contribution (-20.8%).  Most cities contribute between 2% and 4%, indicating a concentration of revenue in a few key markets.
+
+
+Summary of graph_2.png in Page_3:
+Here's a concise summary of the trends and insights from the provided graph:
+
+The graph displays revenue (current year and last year) and profit margin over time.  Revenue shows an overall upward trend, with some seasonal fluctuations.  Profit margin fluctuates significantly, peaking at 4.7% and bottoming out below 1%, suggesting inconsistency in profitability despite revenue growth.  There's a noticeable gap between current year and last year's revenue at some points, but not consistently.
+
+
+Summary of graph_3.png in Page_3:
+That's not a graph; it's a simple data display showing a sales quantity of 2 million (2M).  There are no trends or insights to glean from a single data point.
+
+
+Error processing graph_4.png in Page_3: 'charmap' codec can't encode character '\u20b9' in position 123: character maps to <undefined>
+
+Summary of graph_5.png in Page_3:
+That's not a graph; it's a user interface element.  It shows a setting for a "Profit Target," currently set at 2%, adjustable via a slider.  There are no trends or insights to glean from a single data point and a slider control.
+
+
+Error processing graph_6.png in Page_3: 'charmap' codec can't encode character '\u20b9' in position 63: character maps to <undefined>
+
