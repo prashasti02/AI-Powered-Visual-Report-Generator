@@ -1,90 +1,88 @@
 Summary of graph_0.png in Page_1:
-The bar graph displays sales quantity by market.  Delhi NCR has overwhelmingly the highest sales quantity (approximately 1 million), while all other markets show negligible sales (0 million).
+The bar graph displays sales quantity by market.  Delhi NCR shows significantly higher sales (approximately 1M) than all other markets, which have negligible sales (0M).  Sales are heavily concentrated in Delhi NCR.
 
 
-Error processing graph_1.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 93: character maps to <undefined>
+Error processing graph_1.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 133: character maps to <undefined>
 
-Error processing graph_2.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 148: character maps to <undefined>
+Error processing graph_2.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 123: character maps to <undefined>
 
-Error processing graph_3.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 149: character maps to <undefined>
+Error processing graph_3.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 150: character maps to <undefined>
 
-Error processing graph_4.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 141: character maps to <undefined>
+Error processing graph_4.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 121: character maps to <undefined>
 
 Summary of graph_5.png in Page_1:
-The graph shows a mostly consistent value of 17 from June to December, followed by an increase to 18 in January and February.  There's a slight upward trend at the end of the year.
+The graph shows a consistent value of 17 for the months of June through December, followed by an increase to 18 for January and February.  There's a clear step increase in the final two months.
 
 
 Summary of graph_6.png in Page_1:
-The graph shows a simple timeline from 2017 to 2020.  There is no data presented, only the years.  Therefore, no trends or insights can be derived.
+The graph shows a simple timeline from 2017 to 2020.  There is no data displayed within each year, only the year itself.  No trends or insights can be drawn from this image.
 
 
 Summary of graph_7.png in Page_1:
-That's not a graph; it's a single data point.  The insight is that 2 million units were sold.  There are no trends shown as only one data point is presented.
+That's not a graph; it's a single data point.  The image shows sales quantity reached 2 million units.  No trends or insights beyond that single figure are presented.
 
 
-Error processing graph_8.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 114: character maps to <undefined>
+Error processing graph_8.png in Page_1: 'charmap' codec can't encode character '\u20b9' in position 90: character maps to <undefined>
 
 Summary of graph_0.png in Page_2:
-The graph shows a revenue trend from January 2020 to June 2020. Revenue increased slightly from January to February, peaked in February, and then declined steadily through June.  There was a significant drop in revenue in the final month.
+The graph shows a revenue trend from January 2020 to June 2020. Revenue increased from January to February, peaked in February, then gradually declined through June, experiencing a sharper drop in May and June.
 
 
 Summary of graph_1.png in Page_2:
-The graph shows revenue contribution by market. Delhi NCR overwhelmingly dominates (54.7%), followed by Mumbai (14.2%) and Ahmedabad (12.7%).  The remaining markets contribute significantly less, indicating a highly concentrated revenue source.
+The graph shows that Delhi NCR overwhelmingly dominates revenue contribution (54.7%), significantly outperforming other markets. Mumbai and Ahmedabad are the next largest contributors, while the remaining cities represent a small percentage of overall revenue.  The majority of revenue is concentrated in just three cities.
 
 
 Summary of graph_2.png in Page_2:
-The graph shows the revenue contribution and profit margin contribution of various customer segments.  Electricalsara Stores dominates revenue (46.2%), but many segments have negative profit margins.  While some segments show higher profit margin percentages (e.g., Electricalsbea Stores), their low revenue contribution makes their overall impact minimal.  Overall profit margin is low (1.4%).
+The data shows a wide variation in revenue contribution and profit margin across different customer segments.  While Electricalsara Stores contributes the most to revenue (46.2%), many segments show negative profit margins.  High-revenue contributors don't necessarily correlate with high profit margins.  Some smaller segments, like Surge Stores and Electricalsbea Stores, have disproportionately high profit margins despite low revenue contributions. Overall, the total profit margin is low (1.4%).
 
 
 Summary of graph_3.png in Page_2:
-The bar graph displays the profit contribution percentage by market. Mumbai and Delhi NCR are the top contributors, with 23.9% and 22.1% respectively.  Profit contribution decreases significantly after Ahmedabad (19%), with most other markets contributing less than 10%.  Lucknow shows a negative profit contribution.
+Here's a concise summary of the trends and insights from the provided bar graph:
+
+Mumbai and Delhi NCR are the top profit contributors, each accounting for over 20% of total profit.  Ahmedabad follows significantly behind.  Profit contribution decreases substantially after the top three markets, with most other cities contributing less than 10% and some even showing negative contributions.
 
 
 Summary of graph_4.png in Page_2:
-The bar graph displays profit percentages by market.  Bhubaneshwar shows the highest profit (10.5%), while Lucknow shows a loss (-2.7%).  Profits generally increase from the top to the bottom of the chart.
+The bar graph displays profit percentages by market.  Bhubaneshwar shows the highest profit (10.5%), while Lucknow shows a loss (-2.7%).  Profitability generally increases from Kanpur to Bhubaneshwar, with a few exceptions.
 
 
 Summary of graph_5.png in Page_2:
-The graph shows a simple timeline of dates, from January 20th to June 20th, with each month represented by a separate box.  There are no trends or data insights to interpret beyond the display of these dates.
+The graph shows a simple timeline from January 20 to June 20, marking the 20th day of each month.  No other trends or insights are present.
 
 
-Error processing graph_6.png in Page_2: 'charmap' codec can't encode character '\u20b9' in position 115: character maps to <undefined>
+Error processing graph_6.png in Page_2: 'charmap' codec can't encode character '\u20b9' in position 123: character maps to <undefined>
 
 Summary of graph_7.png in Page_2:
-That's not a graph; it's a single data point.  The image shows that 350,000 units were sold (Sales Qty = 350K).  There are no trends or insights to be gleaned from a single data point.
+That's not a graph; it's a single data point.  The image shows a sales quantity of 350,000 units.  There are no trends or insights to glean from a single data point.
 
 
-Error processing graph_8.png in Page_2: 'charmap' codec can't encode character '\u20b9' in position 85: character maps to <undefined>
+Error processing graph_8.png in Page_2: 'charmap' codec can't encode character '\u20b9' in position 118: character maps to <undefined>
 
 Summary of graph_9.png in Page_2:
-The graph shows a simple timeline from 2017 to 2019, suggesting a progression or sequence of events over those three years.  There's no data represented within the years themselves, only the year markers.  The arrow indicates that the timeline continues beyond 2019.
+The graph shows a simple timeline from 2017 to 2019, suggesting a progression or sequence of events over these three years.  The arrow indicates that data continues beyond 2019.
 
 
 Summary of graph_0.png in Page_3:
-The graph shows the revenue and profit margin contribution of various customer segments.  Electricalsara Stores dominates revenue (42%), while its profit margin contribution (37.7%) is also high.  Many segments have low revenue but higher profit margins.  Overall, the average profit margin is 2.5%.
+The graph shows the revenue and profit margin contributions of various customer store types.  Electricalsara Stores significantly dominates revenue (42%), while its profit margin contribution is also high (37.7%).  Many stores have low revenue contributions, and profit margins vary considerably, indicating diverse performance across different store types.  The overall average profit margin is 2.5%.
 
 
 Summary of graph_1.png in Page_3:
-Here's a concise description of the main trends and insights from the provided graph:
+Here's a concise description of the graph's trends and insights:
 
-The graph shows the revenue contribution percentage by market.  Surat is the top contributor (4.9%), while Bengaluru shows a significant negative contribution (-20.8%).  Most cities contribute between 2% and 4%, indicating a concentration of revenue in a few key markets.
+The graph displays revenue contribution percentages by market. Surat is the top contributor (4.9%), while Bengaluru significantly underperforms (-20.8%).  Most markets contribute between 2% and 4%, indicating a relatively concentrated revenue stream.
 
 
-Summary of graph_2.png in Page_3:
-Here's a concise summary of the trends and insights from the provided graph:
-
-The graph displays revenue (current year and last year) and profit margin over time.  Revenue shows an overall upward trend, with some seasonal fluctuations.  Profit margin fluctuates significantly, peaking at 4.7% and bottoming out below 1%, suggesting inconsistency in profitability despite revenue growth.  There's a noticeable gap between current year and last year's revenue at some points, but not consistently.
-
+Error processing graph_2.png in Page_3: 'charmap' codec can't encode character '\u20b9' in position 229: character maps to <undefined>
 
 Summary of graph_3.png in Page_3:
-That's not a graph; it's a simple data display showing a sales quantity of 2 million (2M).  There are no trends or insights to glean from a single data point.
+That image shows a sales quantity of 2 million units.  There is no trend shown as it's a single data point.
 
 
-Error processing graph_4.png in Page_3: 'charmap' codec can't encode character '\u20b9' in position 123: character maps to <undefined>
+Error processing graph_4.png in Page_3: 'charmap' codec can't encode character '\u20b9' in position 153: character maps to <undefined>
 
 Summary of graph_5.png in Page_3:
-That's not a graph; it's a user interface element.  It shows a setting for a "Profit Target," currently set at 2%, adjustable via a slider.  There are no trends or insights to glean from a single data point and a slider control.
+That's not a graph; it's a user interface element showing a profit target setting.  The image displays a slider and text input allowing a user to specify a profit target, currently set to 2%.  There are no trends or insights to be gleaned from this static image.
 
 
-Error processing graph_6.png in Page_3: 'charmap' codec can't encode character '\u20b9' in position 63: character maps to <undefined>
+Error processing graph_6.png in Page_3: 'charmap' codec can't encode character '\u20b9' in position 113: character maps to <undefined>
 

@@ -1,0 +1,110 @@
+Summary of graph_0.png in Page_1:
+The bar graph shows sales quantity by market.  Delhi NCR has significantly higher sales (1M) than all other markets, which report zero million sales (0M).
+
+
+Summary of graph_1.png in Page_1:
+The graph shows a fluctuating revenue trend over two years.  Revenue peaked at ₹43M in early 2018, then generally declined, with some minor increases and decreases, reaching a low of ₹15M by the end of 2020.  There's no clear consistent upward or downward trend, indicating significant volatility.
+
+
+Summary of graph_2.png in Page_1:
+Here's a concise description of the graph's trends and insights:
+
+The bar graph displays the top 5 products by revenue.  Product (Blank) significantly outperforms all others, generating ₹469M in revenue. The remaining four products show substantially lower revenue, ranging from ₹16M to ₹24M.  There's a clear dominance of one product over the rest.
+
+
+Summary of graph_3.png in Page_1:
+Here's a concise description of the trends and insights from the provided bar graph:
+
+Electricalsara Stores is the top customer, significantly outperforming others with ₹413M in revenue.  The remaining top 4 customers (Electricalslytical, Excel Stores, Premium Stores, and Nixon) generate considerably less revenue, ranging from ₹44M to ₹50M.  There's a substantial gap between the top performer and the rest.
+
+
+Summary of graph_4.png in Page_1:
+The bar graph displays revenue by market, clearly showing Delhi NCR as the top performer with ₹520M, significantly outpacing other markets.  Mumbai and Ahmedabad follow, while the remaining markets generate considerably less revenue, with several under ₹20M.  Revenue is heavily concentrated in a few major cities.
+
+
+Summary of graph_5.png in Page_1:
+The graph shows a mostly consistent value of 17 across June to December, followed by a slight increase to 18 in January and February.
+
+
+Summary of graph_6.png in Page_1:
+The graph shows a simple timeline from 2017 to 2020.  There is no data presented beyond the years themselves; no trends or insights can be derived.
+
+
+Summary of graph_7.png in Page_1:
+That's not a graph; it's a single data point.  The image shows a sales quantity of 2 million units.  No trends or insights can be derived from a single data point.
+
+
+Summary of graph_8.png in Page_1:
+That's not a graph; it's a single data point showing revenue.  The image indicates a revenue of ₹985 million (₹985M).  No trends or insights can be derived from a single data point.  To show trends, multiple data points over time would be needed.
+
+
+Summary of graph_0.png in Page_2:
+The graph shows a revenue trend from January 2020 to June 2020. Revenue increased slightly from January to February, reaching its peak in February.  Then, it gradually declined through June, experiencing a sharper drop in May and June.  Overall, there's a significant decrease in revenue over the six-month period.
+
+
+Summary of graph_1.png in Page_2:
+The graph shows revenue contribution by market.  Delhi NCR overwhelmingly dominates (54.7%), followed by Mumbai (14.2%) and Ahmedabad (12.7%).  All other markets contribute less than 6% each.  The majority of revenue is concentrated in three major metropolitan areas.
+
+
+Summary of graph_2.png in Page_2:
+The data shows significant variation in revenue contribution and profit margin across different customer segments.  While Electricalsara Stores contribute the most to revenue (46.2%), many stores show negative profit margins.  Profit margin percentage is highest for Electricalsbea Stores (15.6%), despite its low revenue contribution.  Overall profit margin is 1.4%.
+
+
+Summary of graph_3.png in Page_2:
+The bar graph displays the profit contribution percentage by market. Mumbai and Delhi NCR are the top contributors, with 23.9% and 22.1% respectively.  Profit contribution significantly decreases after Ahmedabad (19%).  Several markets contribute less than 5%.  Lucknow is the only market showing a negative profit contribution.
+
+
+Summary of graph_4.png in Page_2:
+The bar chart displays profit percentages by market.  Bhubaneshwar shows the highest profit (10.5%), while Lucknow shows a loss (-2.7%).  Profits generally increase from Kanpur to Bhubaneshwar, with most markets exhibiting positive, albeit modest, profit margins.
+
+
+Summary of graph_5.png in Page_2:
+The image shows a simple timeline spanning from January 20 to June 20.  Each month is represented by a box.  There are no data points or trends to analyze beyond the chronological progression of dates.
+
+
+Summary of graph_6.png in Page_2:
+That's not a graph; it's a simple text graphic showing a total profit margin of ₹2.1 million (INR).  There are no trends or insights to glean from a single data point.
+
+
+Summary of graph_7.png in Page_2:
+That's not a graph; it's a single data point.  The image shows a sales quantity of 350,000 (350K).  There are no trends or insights to glean from a single value.
+
+
+Summary of graph_8.png in Page_2:
+That's not a graph; it's an image showing a single data point: ₹142M in revenue.  There are no trends or insights to glean from a single data point.  More data is needed to show trends.
+
+
+Summary of graph_9.png in Page_2:
+The graph shows a timeline from 2017 to 2019, suggesting data or information is available for those years, with an arrow indicating the data continues beyond 2019.  No specific trends are visible without additional context within the grey boxes.
+
+
+Summary of graph_0.png in Page_3:
+The graph displays the revenue and profit margin contribution of various stores.  Electricalsara Stores dominate revenue (42%), followed by a cluster of significantly smaller contributors.  Profit margin contribution is similarly skewed, with Electricalsara Stores again leading.  Profit margins vary widely across stores (from -2% to 7.5%), indicating significant performance differences.
+
+
+Summary of graph_1.png in Page_3:
+The graph shows the revenue contribution percentage by market. Surat is the highest contributor (4.9%), while Bengaluru shows a significant negative contribution (-20.8%).  Most markets contribute positively, but with decreasing percentages.  There's a wide variation in contribution across markets.
+
+
+Summary of graph_2.png in Page_3:
+Here's a concise description of the trends and insights from the provided graph:
+
+The graph displays a revenue trend over time, comparing last year's revenue (LY) with the current year's revenue.  Revenue shows some fluctuation but generally increases over the two-year period. Profit margins fluctuate significantly, peaking around 4.5% and dropping as low as 0.6%, showing a lack of consistent profitability.  There's no clear correlation between revenue and profit margin.
+
+
+Summary of graph_3.png in Page_3:
+That image shows a sales quantity of 2 million units.  There are no trends shown as it presents a single data point.
+
+
+Summary of graph_4.png in Page_3:
+That's not a graph; it's a text box showing a total profit margin of ₹25 million (₹25M).  The main insight is a ₹25 million profit.  There are no trends shown as this is a single data point.
+
+
+Summary of graph_5.png in Page_3:
+That's not a graph; it's a user interface element.  It shows a setting for a "Profit Target," currently set at 2%, which can be adjusted using a slider.  There are no trends or insights to be gleaned, only a single data point and a mechanism for changing it.
+
+
+Summary of graph_6.png in Page_3:
+That image shows a revenue figure of ₹985 million (₹985M).  There is no trend shown as it's a single data point, not a graph over time.
+
+
